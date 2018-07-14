@@ -1,0 +1,2 @@
+Add a contact form to your blog. The form should collect a person's name, email, and message.
+The form should trigger a POST request to an API route you create that interacts with Mailgun to send a message to you (the owner/maintainer of the blog)
